@@ -1,0 +1,31 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+https://docs.spring.io/spring/docs/5.0.6.BUILD-SNAPSHOT/spring-framework-reference/core.html#spring-core
+
+OCA, OCP, OCM  - cerrtification
+
+
+
+--------------------------------------
+Bro Expenditure :
+--------------------------------------
+6930( 1155*6 to & from mumbai  )
+850 ( to bng )
+800 ( to bgk )
+1700 ( to bng )
+764 ( to bgk )
+672 ( to bng )
+1030 ( to bgk )
+1000 ( credit card )
+950 ( to bng )
+================================
+14,696  - Total
+-6000 - Bank installment
+================================
+8696 - Balance 
+
+--------------------------------------
